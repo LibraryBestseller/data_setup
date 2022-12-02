@@ -52,7 +52,9 @@
 ### 4) 데이터 형식 변환
 
 **(1) 저자 열에 있는 데이터 통일**
+
 <img width="371" alt="Untitled (3)" src="https://user-images.githubusercontent.com/109575843/205206185-a3de51a1-c00f-44da-b852-e6149309f7f9.png">
+
 : “지은이:, 저자:, 지음, 글*그림, 글*사진 등 ‘저자 성함', illustrated by”와 같은 저자 설명 외의 부분 삭제
 
 **(2) ISBN 번호가 자동 반올림 되는 문제**
