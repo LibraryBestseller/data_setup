@@ -6,5 +6,5 @@ CREATE TABLE bestloan_books(SELECT DENSE_RANK() OVER(ORDER BY YY, MM, age, gende
 FROM ALL_data
 ORDER BY bs_code, rnk);
 
-#-- 기본키 임의부여 생성
+#기본키 임의부여 생성
 ALTER TABLE bestloan_books ADD id_bestbook INT PRIMARY KEY AUTO_INCREMENT; 
