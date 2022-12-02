@@ -21,4 +21,20 @@
 <p align="center">순위, 서명, 저자, 출판사, 출판년도, 월, ISBN, ISBN 부가기호, KDC, 대출건수로 구성</p>
 
  ## ✔️ [데이터 전처리](https://github.com/LibraryBestseller/data_setup/blob/main/data-processing/data-processing__.md)
+- 인기대출도서 데이터 수집
+- 해당 데이터 양식에 조건 추가
+- 데이터 통합
+- 데이터 형식 변환
+ 
+ 
  ## ✔️ [데이터 셋업](https://github.com/LibraryBestseller/data_setup/blob/main/data-setup/data-setup__.md)
+- 사용 DBMS : `mysql`
+
+|table|설명|
+|------|---|
+|user|대출 고객 정보 테이블]
+|books|대출 도서 테이블|
+|bestloan_books|인기 대출 책 정보 테이블|
+|genre|책 세부 장르 테이블|
+
+![image](https://user-images.githubusercontent.com/84497369/205215778-2918bd01-3ed7-445d-9bc9-aa272f855d56.png)
