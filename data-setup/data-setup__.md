@@ -3,11 +3,6 @@
 
 사용 DBMS : `mysql`
 
-
-<img width="534" alt="image" src="https://user-images.githubusercontent.com/84497369/205215407-01b300f7-3e72-4141-9456-37dacf912f7c.png">
-
-
-----
 ### 1. `users` table : 대출 고객 정보 테이블
 
 ![image](https://user-images.githubusercontent.com/84497369/205203981-0f607f6a-26d2-465a-a341-aca5cbcf73b0.png)
@@ -81,4 +76,8 @@
             8 : 문학
             9 : 역사, 지리, 관광
 
+----
+
+## ✔️ ERD
+![image](https://user-images.githubusercontent.com/84497369/205215778-2918bd01-3ed7-445d-9bc9-aa272f855d56.png)
 
