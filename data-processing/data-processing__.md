@@ -11,3 +11,7 @@
     - 결과건수: 200건
     
     👉 해당 조건들을 바탕으로, 도서관 정보나루에서 csv 혹은 xlsx형태로 데이터를 수집
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/866d65ae-341a-406e-b80c-071fe6cc26d5/Untitled.png)
+
+![추출된 데이터 양식: 순위, 서명, 저자, 출판사, 출판년도, 월, ISBN, ISBN 부가기호, KDC, 대출건수로 구성 ](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/71425e8a-eb40-4f52-942d-21de71b8cac3/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-09-02_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_12.03.07.png)
+추출된 데이터 양식: 순위, 서명, 저자, 출판사, 출판년도, 월, ISBN, ISBN 부가기호, KDC, 대출건수로 구성
