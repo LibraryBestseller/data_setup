@@ -19,3 +19,5 @@
 <img src="https://user-images.githubusercontent.com/109563978/205204129-2ff7b914-811b-4854-835f-6db0c494bda8.png" width="1000">
 <p align="center">순위, 서명, 저자, 출판사, 출판년도, 월, ISBN, ISBN 부가기호, KDC, 대출건수로 구성</p>
 
+ ## ✔️ [데이터 전처리](https://github.com/LibraryBestseller/data_setup/blob/main/data-processing/data-processing__.md)
+ ## ✔️ [데이터 셋업](https://github.com/LibraryBestseller/data_setup/blob/main/data-setup/data-setup__.md)
