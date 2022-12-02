@@ -1,6 +1,13 @@
 ## ✔️ 데이터 셋업 구성하기
 
+
 사용 DBMS : `mysql`
+
+
+<img width="534" alt="image" src="https://user-images.githubusercontent.com/84497369/205215407-01b300f7-3e72-4141-9456-37dacf912f7c.png">
+
+
+----
 ### 1. `users` table : 대출 고객 정보 테이블
 
 ![image](https://user-images.githubusercontent.com/84497369/205203981-0f607f6a-26d2-465a-a341-aca5cbcf73b0.png)
